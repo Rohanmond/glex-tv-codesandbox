@@ -1,0 +1,10 @@
+:root {
+  --nav-background-color: #000000;
+  --background-color: #2d2d2d;
+  --text-color: #ffffff;
+  --text-secondary-color: #aaaaaa;
+}
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}

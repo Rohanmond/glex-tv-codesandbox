@@ -1,0 +1,7 @@
+.video-list-aside-container {
+  height: 100vh;
+  position: sticky;
+  top: 4rem;
+  overflow-y: scroll;
+  left: 0;
+}
